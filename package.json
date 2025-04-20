@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Felipeds-L/TDD_CA_Project#readme",
   "devDependencies": {
-    "git-commit-msg-linter": "^5.0.8"
+    "@types/node": "^22.14.1",
+    "git-commit-msg-linter": "^5.0.8",
+    "typescript": "^5.8.3"
   }
 }
