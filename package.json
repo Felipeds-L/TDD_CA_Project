@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Felipeds-L/TDD_CA_Project/issues"
   },
-  "homepage": "https://github.com/Felipeds-L/TDD_CA_Project#readme"
+  "homepage": "https://github.com/Felipeds-L/TDD_CA_Project#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.8"
+  }
 }
